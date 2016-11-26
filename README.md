@@ -1,5 +1,5 @@
 # Liner-Regression
-Linear regression for binary response (machine learning) in C++.
+Linear regression for binary response in C++.
 
 ##Input
 The number of pairs (x,y) for training can be specifed by the user and then entered, in the format:
