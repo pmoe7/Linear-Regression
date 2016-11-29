@@ -1,4 +1,4 @@
-# Liner-Regression
+# Linear-Regression
 Linear regression for binary response in C++.
 
 ##Input
